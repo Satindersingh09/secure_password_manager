@@ -1,0 +1,4 @@
+cryptography
+python-dotenv
+mysql-connector-python
+Werkzeug
